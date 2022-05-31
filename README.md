@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AMIRALINE
 - 👀 I’m interested wed developering
-- 🌱 I’m currently learning css and js
+- 🌱 I’m currently do some projects
 - 📫 How to reach me in telegram its my id @amirali_ne46
 
 <!---
