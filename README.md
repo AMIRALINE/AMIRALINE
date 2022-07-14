@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AMIRALINE
+- 👋 Hi, I’m AMIRALINE
 - 👀 I’m interested wed developering
 - 🌱 I’m currently do some projects
-- 📫 How to reach me in telegram its my id @amirali_ne46
+- 📫 How to reach me in telegram and instageram its my id @im_amrali
 
 <!---
 AMIRALINE/AMIRALINE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
